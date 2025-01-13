@@ -67,12 +67,12 @@ namespace ResetApiTcp.Cliernt.Command.Sql.SqlCommand
                                         commandSql.ExecuteNonQuery();
                                     }
                                     result_t.UserId = 0;
-                                    result_t.Satus = "SUCCESS";
+                                    result_t.Status = "SUCCESS";
                                 }
                                 else 
                                 {
                                     result_t.UserId = -1;
-                                    result_t.Satus = "find_user not false";
+                                    result_t.Status = "find_user not false";
                                 }
                                 result = result_t;
                             }
@@ -98,12 +98,12 @@ namespace ResetApiTcp.Cliernt.Command.Sql.SqlCommand
                                 {
                                     
                                     result_t.UserId = 0;
-                                    result_t.Satus = "SUCCESS";
+                                    result_t.Status = "SUCCESS";
                                 }
                                 else
                                 {
                                     result_t.UserId = -1;
-                                    result_t.Satus = "FAILED";
+                                    result_t.Status = "FAILED";
                                 }
                                 result = result_t;
                             }
