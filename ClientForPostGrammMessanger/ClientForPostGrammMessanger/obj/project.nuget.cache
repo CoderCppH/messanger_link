@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ob+1Dk9X96E=",
+  "success": true,
+  "projectFilePath": "D:\\tools\\VS\\PROJECTS\\C_PLUS_PLUS\\ClientForPostGrammMessanger\\ClientForPostGrammMessanger\\ClientForPostGrammMessanger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SystemX\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

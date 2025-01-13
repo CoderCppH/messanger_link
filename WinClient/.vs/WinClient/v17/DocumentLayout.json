@@ -1,0 +1,321 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\WinClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{128F932E-13EA-43BF-9126-0945456AD404}|WinClient\\WinClient.csproj|c:\\users\\pargev\\documents\\github\\postgrammmessangerkmept\\winclient\\winclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128F932E-13EA-43BF-9126-0945456AD404}|WinClient\\WinClient.csproj|solutionrelative:winclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128F932E-13EA-43BF-9126-0945456AD404}|WinClient\\WinClient.csproj|C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\WinClient\\winclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{128F932E-13EA-43BF-9126-0945456AD404}|WinClient\\WinClient.csproj|solutionrelative:winclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128F932E-13EA-43BF-9126-0945456AD404}|WinClient\\WinClient.csproj|c:\\users\\pargev\\documents\\github\\postgrammmessangerkmept\\winclient\\winclient\\workingapi\\patterns\\formatdatatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128F932E-13EA-43BF-9126-0945456AD404}|WinClient\\WinClient.csproj|solutionrelative:winclient\\workingapi\\patterns\\formatdatatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128F932E-13EA-43BF-9126-0945456AD404}|WinClient\\WinClient.csproj|c:\\users\\pargev\\documents\\github\\postgrammmessangerkmept\\winclient\\winclient\\workingapi\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128F932E-13EA-43BF-9126-0945456AD404}|WinClient\\WinClient.csproj|solutionrelative:winclient\\workingapi\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128F932E-13EA-43BF-9126-0945456AD404}|WinClient\\WinClient.csproj|c:\\users\\pargev\\documents\\github\\postgrammmessangerkmept\\winclient\\winclient\\workingapi\\convert\\convertimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128F932E-13EA-43BF-9126-0945456AD404}|WinClient\\WinClient.csproj|solutionrelative:winclient\\workingapi\\convert\\convertimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128F932E-13EA-43BF-9126-0945456AD404}|WinClient\\WinClient.csproj|c:\\users\\pargev\\documents\\github\\postgrammmessangerkmept\\winclient\\winclient\\workingapi\\patterns\\file\\filetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128F932E-13EA-43BF-9126-0945456AD404}|WinClient\\WinClient.csproj|solutionrelative:winclient\\workingapi\\patterns\\file\\filetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128F932E-13EA-43BF-9126-0945456AD404}|WinClient\\WinClient.csproj|c:\\users\\pargev\\documents\\github\\postgrammmessangerkmept\\winclient\\winclient\\workingapi\\patterns\\requesttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128F932E-13EA-43BF-9126-0945456AD404}|WinClient\\WinClient.csproj|solutionrelative:winclient\\workingapi\\patterns\\requesttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128F932E-13EA-43BF-9126-0945456AD404}|WinClient\\WinClient.csproj|c:\\users\\pargev\\documents\\github\\postgrammmessangerkmept\\winclient\\winclient\\workingapi\\convert\\sizedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128F932E-13EA-43BF-9126-0945456AD404}|WinClient\\WinClient.csproj|solutionrelative:winclient\\workingapi\\convert\\sizedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128F932E-13EA-43BF-9126-0945456AD404}|WinClient\\WinClient.csproj|c:\\users\\pargev\\documents\\github\\postgrammmessangerkmept\\winclient\\winclient\\workingapi\\convert\\datatransportationformat\\datatransportationformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128F932E-13EA-43BF-9126-0945456AD404}|WinClient\\WinClient.csproj|solutionrelative:winclient\\workingapi\\convert\\datatransportationformat\\datatransportationformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128F932E-13EA-43BF-9126-0945456AD404}|WinClient\\WinClient.csproj|c:\\users\\pargev\\documents\\github\\postgrammmessangerkmept\\winclient\\winclient\\workingapi\\patterns\\file\\filepatterns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128F932E-13EA-43BF-9126-0945456AD404}|WinClient\\WinClient.csproj|solutionrelative:winclient\\workingapi\\patterns\\file\\filepatterns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128F932E-13EA-43BF-9126-0945456AD404}|WinClient\\WinClient.csproj|c:\\users\\pargev\\documents\\github\\postgrammmessangerkmept\\winclient\\winclient\\workingapi\\patterns\\user\\resultuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128F932E-13EA-43BF-9126-0945456AD404}|WinClient\\WinClient.csproj|solutionrelative:winclient\\workingapi\\patterns\\user\\resultuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128F932E-13EA-43BF-9126-0945456AD404}|WinClient\\WinClient.csproj|c:\\users\\pargev\\documents\\github\\postgrammmessangerkmept\\winclient\\winclient\\workingapi\\streammessage\\streamreader\\streamreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128F932E-13EA-43BF-9126-0945456AD404}|WinClient\\WinClient.csproj|solutionrelative:winclient\\workingapi\\streammessage\\streamreader\\streamreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128F932E-13EA-43BF-9126-0945456AD404}|WinClient\\WinClient.csproj|c:\\users\\pargev\\documents\\github\\postgrammmessangerkmept\\winclient\\winclient\\winclient.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{128F932E-13EA-43BF-9126-0945456AD404}|WinClient\\WinClient.csproj|solutionrelative:winclient\\winclient.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128F932E-13EA-43BF-9126-0945456AD404}|WinClient\\WinClient.csproj|c:\\users\\pargev\\documents\\github\\postgrammmessangerkmept\\winclient\\winclient\\workingapi\\patterns\\transportcommand\\transportcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128F932E-13EA-43BF-9126-0945456AD404}|WinClient\\WinClient.csproj|solutionrelative:winclient\\workingapi\\patterns\\transportcommand\\transportcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128F932E-13EA-43BF-9126-0945456AD404}|WinClient\\WinClient.csproj|c:\\users\\pargev\\documents\\github\\postgrammmessangerkmept\\winclient\\winclient\\outvalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128F932E-13EA-43BF-9126-0945456AD404}|WinClient\\WinClient.csproj|solutionrelative:winclient\\outvalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128F932E-13EA-43BF-9126-0945456AD404}|WinClient\\WinClient.csproj|c:\\users\\pargev\\documents\\github\\postgrammmessangerkmept\\winclient\\winclient\\workingapi\\patterns\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128F932E-13EA-43BF-9126-0945456AD404}|WinClient\\WinClient.csproj|solutionrelative:winclient\\workingapi\\patterns\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128F932E-13EA-43BF-9126-0945456AD404}|WinClient\\WinClient.csproj|c:\\users\\pargev\\documents\\github\\postgrammmessangerkmept\\winclient\\winclient\\workingapi\\convert\\convertjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128F932E-13EA-43BF-9126-0945456AD404}|WinClient\\WinClient.csproj|solutionrelative:winclient\\workingapi\\convert\\convertjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128F932E-13EA-43BF-9126-0945456AD404}|WinClient\\WinClient.csproj|c:\\users\\pargev\\documents\\github\\postgrammmessangerkmept\\winclient\\winclient\\workingapi\\streammessage\\streamwriter\\streamwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128F932E-13EA-43BF-9126-0945456AD404}|WinClient\\WinClient.csproj|solutionrelative:winclient\\workingapi\\streammessage\\streamwriter\\streamwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\WinClient\\WinClient\\Form1.cs",
+              "RelativeDocumentMoniker": "WinClient\\Form1.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\WinClient\\WinClient\\Form1.cs",
+              "RelativeToolTip": "WinClient\\Form1.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAGgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T21:19:38.78Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResultUser.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\WinClient\\WinClient\\WorkingApi\\Patterns\\User\\ResultUser.cs",
+              "RelativeDocumentMoniker": "WinClient\\WorkingApi\\Patterns\\User\\ResultUser.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\WinClient\\WinClient\\WorkingApi\\Patterns\\User\\ResultUser.cs",
+              "RelativeToolTip": "WinClient\\WorkingApi\\Patterns\\User\\ResultUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T09:28:22.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\WinClient\\WinClient\\WorkingApi\\Patterns\\User\\User.cs",
+              "RelativeDocumentMoniker": "WinClient\\WorkingApi\\Patterns\\User\\User.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\WinClient\\WinClient\\WorkingApi\\Patterns\\User\\User.cs",
+              "RelativeToolTip": "WinClient\\WorkingApi\\Patterns\\User\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T09:08:29.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TransportCommand.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\WinClient\\WinClient\\WorkingApi\\Patterns\\TransportCommand\\TransportCommand.cs",
+              "RelativeDocumentMoniker": "WinClient\\WorkingApi\\Patterns\\TransportCommand\\TransportCommand.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\WinClient\\WinClient\\WorkingApi\\Patterns\\TransportCommand\\TransportCommand.cs",
+              "RelativeToolTip": "WinClient\\WorkingApi\\Patterns\\TransportCommand\\TransportCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T09:05:16.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SizeData.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\WinClient\\WinClient\\WorkingApi\\Convert\\SizeData.cs",
+              "RelativeDocumentMoniker": "WinClient\\WorkingApi\\Convert\\SizeData.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\WinClient\\WinClient\\WorkingApi\\Convert\\SizeData.cs",
+              "RelativeToolTip": "WinClient\\WorkingApi\\Convert\\SizeData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:11:18.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileType.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\WinClient\\WinClient\\WorkingApi\\Patterns\\File\\FileType.cs",
+              "RelativeDocumentMoniker": "WinClient\\WorkingApi\\Patterns\\File\\FileType.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\WinClient\\WinClient\\WorkingApi\\Patterns\\File\\FileType.cs",
+              "RelativeToolTip": "WinClient\\WorkingApi\\Patterns\\File\\FileType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T15:51:22.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FilePatterns.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\WinClient\\WinClient\\WorkingApi\\Patterns\\File\\FilePatterns.cs",
+              "RelativeDocumentMoniker": "WinClient\\WorkingApi\\Patterns\\File\\FilePatterns.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\WinClient\\WinClient\\WorkingApi\\Patterns\\File\\FilePatterns.cs",
+              "RelativeToolTip": "WinClient\\WorkingApi\\Patterns\\File\\FilePatterns.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T15:51:15.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WinClient",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\WinClient\\WinClient\\WinClient.csproj",
+              "RelativeDocumentMoniker": "WinClient\\WinClient.csproj",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\WinClient\\WinClient\\WinClient.csproj",
+              "RelativeToolTip": "WinClient\\WinClient.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T15:16:23.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ConvertJson.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\WinClient\\WinClient\\WorkingApi\\Convert\\ConvertJson.cs",
+              "RelativeDocumentMoniker": "WinClient\\WorkingApi\\Convert\\ConvertJson.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\WinClient\\WinClient\\WorkingApi\\Convert\\ConvertJson.cs",
+              "RelativeToolTip": "WinClient\\WorkingApi\\Convert\\ConvertJson.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAYwB8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T07:40:11.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RequestType.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\WinClient\\WinClient\\WorkingApi\\Patterns\\RequestType.cs",
+              "RelativeDocumentMoniker": "WinClient\\WorkingApi\\Patterns\\RequestType.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\WinClient\\WinClient\\WorkingApi\\Patterns\\RequestType.cs",
+              "RelativeToolTip": "WinClient\\WorkingApi\\Patterns\\RequestType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T07:34:45.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormatDataType.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\WinClient\\WinClient\\WorkingApi\\Patterns\\FormatDataType.cs",
+              "RelativeDocumentMoniker": "WinClient\\WorkingApi\\Patterns\\FormatDataType.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\WinClient\\WinClient\\WorkingApi\\Patterns\\FormatDataType.cs",
+              "RelativeToolTip": "WinClient\\WorkingApi\\Patterns\\FormatDataType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T07:34:19.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataTransportationFormat.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\WinClient\\WinClient\\WorkingApi\\Convert\\DataTransportationFormat\\DataTransportationFormat.cs",
+              "RelativeDocumentMoniker": "WinClient\\WorkingApi\\Convert\\DataTransportationFormat\\DataTransportationFormat.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\WinClient\\WinClient\\WorkingApi\\Convert\\DataTransportationFormat\\DataTransportationFormat.cs",
+              "RelativeToolTip": "WinClient\\WorkingApi\\Convert\\DataTransportationFormat\\DataTransportationFormat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T07:33:39.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConvertImage.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\WinClient\\WinClient\\WorkingApi\\Convert\\ConvertImage.cs",
+              "RelativeDocumentMoniker": "WinClient\\WorkingApi\\Convert\\ConvertImage.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\WinClient\\WinClient\\WorkingApi\\Convert\\ConvertImage.cs",
+              "RelativeToolTip": "WinClient\\WorkingApi\\Convert\\ConvertImage.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T07:31:35.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OutValues.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\WinClient\\WinClient\\OutValues.cs",
+              "RelativeDocumentMoniker": "WinClient\\OutValues.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\WinClient\\WinClient\\OutValues.cs",
+              "RelativeToolTip": "WinClient\\OutValues.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T07:30:12.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StreamWriter.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\WinClient\\WinClient\\WorkingApi\\StreamMessage\\StreamWriter\\StreamWriter.cs",
+              "RelativeDocumentMoniker": "WinClient\\WorkingApi\\StreamMessage\\StreamWriter\\StreamWriter.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\WinClient\\WinClient\\WorkingApi\\StreamMessage\\StreamWriter\\StreamWriter.cs",
+              "RelativeToolTip": "WinClient\\WorkingApi\\StreamMessage\\StreamWriter\\StreamWriter.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T07:19:22.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StreamReader.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\WinClient\\WinClient\\WorkingApi\\StreamMessage\\StreamReader\\StreamReader.cs",
+              "RelativeDocumentMoniker": "WinClient\\WorkingApi\\StreamMessage\\StreamReader\\StreamReader.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\WinClient\\WinClient\\WorkingApi\\StreamMessage\\StreamReader\\StreamReader.cs",
+              "RelativeToolTip": "WinClient\\WorkingApi\\StreamMessage\\StreamReader\\StreamReader.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAYwEIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T07:19:11.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\WinClient\\WinClient\\WorkingApi\\Client.cs",
+              "RelativeDocumentMoniker": "WinClient\\WorkingApi\\Client.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\WinClient\\WinClient\\WorkingApi\\Client.cs",
+              "RelativeToolTip": "WinClient\\WorkingApi\\Client.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAnwCQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T07:15:09.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\WinClient\\WinClient\\Form1.cs",
+              "RelativeDocumentMoniker": "WinClient\\Form1.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\WinClient\\WinClient\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "WinClient\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T21:18:53.958Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
