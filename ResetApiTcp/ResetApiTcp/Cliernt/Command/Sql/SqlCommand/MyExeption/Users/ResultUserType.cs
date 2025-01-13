@@ -3,6 +3,6 @@
     public class ResultUserType
     {
         public int UserId = int.MinValue;
-        public string Satus = String.Empty;
+        public string Status = String.Empty;
     }
 }
