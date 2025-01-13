@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o/AWwiNHZlo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\WinClient\\WinClient\\WinClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pargev\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

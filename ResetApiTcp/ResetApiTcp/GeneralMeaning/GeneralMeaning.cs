@@ -1,0 +1,8 @@
+﻿namespace ResetApiTcp.GeneralMeaning
+{
+    static class GeneralMeaning
+    {
+        public static int EmptyOfValue = default(int);
+        public static string DataBaseName = "database.db";
+    }
+}
