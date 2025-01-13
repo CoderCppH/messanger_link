@@ -1,0 +1,299 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\ResetApiTcp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|c:\\users\\pargev\\documents\\github\\postgrammmessangerkmept\\resetapitcp\\resetapitcp\\cliernt\\clientthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\cliernt\\clientthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|c:\\users\\pargev\\documents\\github\\postgrammmessangerkmept\\resetapitcp\\resetapitcp\\cliernt\\command\\sql\\sqlcommand\\sqlitecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\cliernt\\command\\sql\\sqlcommand\\sqlitecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|c:\\users\\pargev\\documents\\github\\postgrammmessangerkmept\\resetapitcp\\resetapitcp\\threadkeyboard\\threadkeyboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\threadkeyboard\\threadkeyboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|c:\\users\\pargev\\documents\\github\\postgrammmessangerkmept\\resetapitcp\\resetapitcp\\streammessage\\streamwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\streammessage\\streamwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|c:\\users\\pargev\\documents\\github\\postgrammmessangerkmept\\resetapitcp\\resetapitcp\\server\\serverstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\server\\serverstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|c:\\users\\pargev\\documents\\github\\postgrammmessangerkmept\\resetapitcp\\resetapitcp\\streammessage\\streamreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\streammessage\\streamreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|c:\\users\\pargev\\documents\\github\\postgrammmessangerkmept\\resetapitcp\\resetapitcp\\patterns\\requesttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\patterns\\requesttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|c:\\users\\pargev\\documents\\github\\postgrammmessangerkmept\\resetapitcp\\resetapitcp\\generalmeaning\\generalmeaning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\generalmeaning\\generalmeaning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|c:\\users\\pargev\\documents\\github\\postgrammmessangerkmept\\resetapitcp\\resetapitcp\\convert\\convertjson\\convertjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\convert\\convertjson\\convertjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|c:\\users\\pargev\\documents\\github\\postgrammmessangerkmept\\resetapitcp\\resetapitcp\\patterns\\datatransportationformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\patterns\\datatransportationformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|c:\\users\\pargev\\documents\\github\\postgrammmessangerkmept\\resetapitcp\\resetapitcp\\cliernt\\command\\sql\\sqlcommand\\myexeption\\users\\sqlusertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\cliernt\\command\\sql\\sqlcommand\\myexeption\\users\\sqlusertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|c:\\users\\pargev\\documents\\github\\postgrammmessangerkmept\\resetapitcp\\resetapitcp\\patterns\\filepatterns\\filepatterns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\patterns\\filepatterns\\filepatterns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|c:\\users\\pargev\\documents\\github\\postgrammmessangerkmept\\resetapitcp\\resetapitcp\\patterns\\formatdatatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\patterns\\formatdatatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|c:\\users\\pargev\\documents\\github\\postgrammmessangerkmept\\resetapitcp\\resetapitcp\\cliernt\\command\\sql\\database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\cliernt\\command\\sql\\database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|c:\\users\\pargev\\documents\\github\\postgrammmessangerkmept\\resetapitcp\\resetapitcp\\cliernt\\command\\sql\\sqlcommand\\myexeption\\users\\resultusertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\cliernt\\command\\sql\\sqlcommand\\myexeption\\users\\resultusertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|c:\\users\\pargev\\documents\\github\\postgrammmessangerkmept\\resetapitcp\\resetapitcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|c:\\users\\pargev\\documents\\github\\postgrammmessangerkmept\\resetapitcp\\resetapitcp\\patterns\\filepatterns\\filetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\patterns\\filepatterns\\filetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientThread.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Cliernt\\ClientThread.cs",
+              "RelativeDocumentMoniker": "ResetApiTcp\\Cliernt\\ClientThread.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Cliernt\\ClientThread.cs",
+              "RelativeToolTip": "ResetApiTcp\\Cliernt\\ClientThread.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAGIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T12:30:30.723Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SQLiteCommand.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Cliernt\\Command\\Sql\\SqlCommand\\SQLiteCommand.cs",
+              "RelativeDocumentMoniker": "ResetApiTcp\\Cliernt\\Command\\Sql\\SqlCommand\\SQLiteCommand.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Cliernt\\Command\\Sql\\SqlCommand\\SQLiteCommand.cs",
+              "RelativeToolTip": "ResetApiTcp\\Cliernt\\Command\\Sql\\SqlCommand\\SQLiteCommand.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAowFMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:29:44.876Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResultUserType.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Cliernt\\Command\\Sql\\SqlCommand\\MyExeption\\Users\\ResultUserType.cs",
+              "RelativeDocumentMoniker": "ResetApiTcp\\Cliernt\\Command\\Sql\\SqlCommand\\MyExeption\\Users\\ResultUserType.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Cliernt\\Command\\Sql\\SqlCommand\\MyExeption\\Users\\ResultUserType.cs",
+              "RelativeToolTip": "ResetApiTcp\\Cliernt\\Command\\Sql\\SqlCommand\\MyExeption\\Users\\ResultUserType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:21:32.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SqlUserType.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Cliernt\\Command\\Sql\\SqlCommand\\MyExeption\\Users\\SqlUserType.cs",
+              "RelativeDocumentMoniker": "ResetApiTcp\\Cliernt\\Command\\Sql\\SqlCommand\\MyExeption\\Users\\SqlUserType.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Cliernt\\Command\\Sql\\SqlCommand\\MyExeption\\Users\\SqlUserType.cs",
+              "RelativeToolTip": "ResetApiTcp\\Cliernt\\Command\\Sql\\SqlCommand\\MyExeption\\Users\\SqlUserType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:54:31.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GeneralMeaning.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\GeneralMeaning\\GeneralMeaning.cs",
+              "RelativeDocumentMoniker": "ResetApiTcp\\GeneralMeaning\\GeneralMeaning.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\GeneralMeaning\\GeneralMeaning.cs",
+              "RelativeToolTip": "ResetApiTcp\\GeneralMeaning\\GeneralMeaning.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:33:34.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Cliernt\\Command\\Sql\\DataBase\\DataBase.cs",
+              "RelativeDocumentMoniker": "ResetApiTcp\\Cliernt\\Command\\Sql\\DataBase\\DataBase.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Cliernt\\Command\\Sql\\DataBase\\DataBase.cs",
+              "RelativeToolTip": "ResetApiTcp\\Cliernt\\Command\\Sql\\DataBase\\DataBase.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAwwBkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:21:30.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConvertJson.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Convert\\ConvertJson\\ConvertJson.cs",
+              "RelativeDocumentMoniker": "ResetApiTcp\\Convert\\ConvertJson\\ConvertJson.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Convert\\ConvertJson\\ConvertJson.cs",
+              "RelativeToolTip": "ResetApiTcp\\Convert\\ConvertJson\\ConvertJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T15:48:11.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FileType.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Patterns\\FilePatterns\\FileType.cs",
+              "RelativeDocumentMoniker": "ResetApiTcp\\Patterns\\FilePatterns\\FileType.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Patterns\\FilePatterns\\FileType.cs",
+              "RelativeToolTip": "ResetApiTcp\\Patterns\\FilePatterns\\FileType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T15:43:36.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FilePatterns.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Patterns\\FilePatterns\\FilePatterns.cs",
+              "RelativeDocumentMoniker": "ResetApiTcp\\Patterns\\FilePatterns\\FilePatterns.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Patterns\\FilePatterns\\FilePatterns.cs",
+              "RelativeToolTip": "ResetApiTcp\\Patterns\\FilePatterns\\FilePatterns.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T15:42:32.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThreadKeyBoard.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\ThreadKeyBoard\\ThreadKeyBoard.cs",
+              "RelativeDocumentMoniker": "ResetApiTcp\\ThreadKeyBoard\\ThreadKeyBoard.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\ThreadKeyBoard\\ThreadKeyBoard.cs",
+              "RelativeToolTip": "ResetApiTcp\\ThreadKeyBoard\\ThreadKeyBoard.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T21:10:13.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormatDataType.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Patterns\\FormatDataType.cs",
+              "RelativeDocumentMoniker": "ResetApiTcp\\Patterns\\FormatDataType.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Patterns\\FormatDataType.cs",
+              "RelativeToolTip": "ResetApiTcp\\Patterns\\FormatDataType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:51:27.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RequestType.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Patterns\\RequestType.cs",
+              "RelativeDocumentMoniker": "ResetApiTcp\\Patterns\\RequestType.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Patterns\\RequestType.cs",
+              "RelativeToolTip": "ResetApiTcp\\Patterns\\RequestType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:49:45.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataTransportationFormat.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Patterns\\DataTransportationFormat.cs",
+              "RelativeDocumentMoniker": "ResetApiTcp\\Patterns\\DataTransportationFormat.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Patterns\\DataTransportationFormat.cs",
+              "RelativeToolTip": "ResetApiTcp\\Patterns\\DataTransportationFormat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:49:24.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServerStart.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Server\\ServerStart.cs",
+              "RelativeDocumentMoniker": "ResetApiTcp\\Server\\ServerStart.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Server\\ServerStart.cs",
+              "RelativeToolTip": "ResetApiTcp\\Server\\ServerStart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T12:24:11.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StreamWriter.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\StreamMessage\\StreamWriter.cs",
+              "RelativeDocumentMoniker": "ResetApiTcp\\StreamMessage\\StreamWriter.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\StreamMessage\\StreamWriter.cs",
+              "RelativeToolTip": "ResetApiTcp\\StreamMessage\\StreamWriter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T09:46:54.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StreamReader.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\StreamMessage\\StreamReader.cs",
+              "RelativeDocumentMoniker": "ResetApiTcp\\StreamMessage\\StreamReader.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\StreamMessage\\StreamReader.cs",
+              "RelativeToolTip": "ResetApiTcp\\StreamMessage\\StreamReader.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAuwEIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T09:46:47.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Program.cs",
+              "RelativeDocumentMoniker": "ResetApiTcp\\Program.cs",
+              "ToolTip": "C:\\Users\\pargev\\Documents\\GitHub\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Program.cs",
+              "RelativeToolTip": "ResetApiTcp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T09:44:38.865Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

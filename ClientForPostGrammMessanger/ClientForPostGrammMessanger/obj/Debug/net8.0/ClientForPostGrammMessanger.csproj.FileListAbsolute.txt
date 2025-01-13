@@ -1,0 +1,12 @@
+D:\tools\VS\PROJECTS\C_PLUS_PLUS\ClientForPostGrammMessanger\ClientForPostGrammMessanger\bin\Debug\net8.0\ClientForPostGrammMessanger.deps.json
+D:\tools\VS\PROJECTS\C_PLUS_PLUS\ClientForPostGrammMessanger\ClientForPostGrammMessanger\bin\Debug\net8.0\ClientForPostGrammMessanger.dll
+D:\tools\VS\PROJECTS\C_PLUS_PLUS\ClientForPostGrammMessanger\ClientForPostGrammMessanger\bin\Debug\net8.0\ClientForPostGrammMessanger.pdb
+D:\tools\VS\PROJECTS\C_PLUS_PLUS\ClientForPostGrammMessanger\ClientForPostGrammMessanger\obj\Debug\net8.0\ClientForPostGrammMessanger.csproj.AssemblyReference.cache
+D:\tools\VS\PROJECTS\C_PLUS_PLUS\ClientForPostGrammMessanger\ClientForPostGrammMessanger\obj\Debug\net8.0\ClientForPostGrammMessanger.GeneratedMSBuildEditorConfig.editorconfig
+D:\tools\VS\PROJECTS\C_PLUS_PLUS\ClientForPostGrammMessanger\ClientForPostGrammMessanger\obj\Debug\net8.0\ClientForPostGrammMessanger.AssemblyInfoInputs.cache
+D:\tools\VS\PROJECTS\C_PLUS_PLUS\ClientForPostGrammMessanger\ClientForPostGrammMessanger\obj\Debug\net8.0\ClientForPostGrammMessanger.AssemblyInfo.cs
+D:\tools\VS\PROJECTS\C_PLUS_PLUS\ClientForPostGrammMessanger\ClientForPostGrammMessanger\obj\Debug\net8.0\ClientForPostGrammMessanger.csproj.CoreCompileInputs.cache
+D:\tools\VS\PROJECTS\C_PLUS_PLUS\ClientForPostGrammMessanger\ClientForPostGrammMessanger\obj\Debug\net8.0\ClientForPostGrammMessanger.dll
+D:\tools\VS\PROJECTS\C_PLUS_PLUS\ClientForPostGrammMessanger\ClientForPostGrammMessanger\obj\Debug\net8.0\refint\ClientForPostGrammMessanger.dll
+D:\tools\VS\PROJECTS\C_PLUS_PLUS\ClientForPostGrammMessanger\ClientForPostGrammMessanger\obj\Debug\net8.0\ClientForPostGrammMessanger.pdb
+D:\tools\VS\PROJECTS\C_PLUS_PLUS\ClientForPostGrammMessanger\ClientForPostGrammMessanger\obj\Debug\net8.0\ref\ClientForPostGrammMessanger.dll
