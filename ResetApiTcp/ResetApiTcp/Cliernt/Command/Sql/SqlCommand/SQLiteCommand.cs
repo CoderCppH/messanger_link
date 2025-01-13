@@ -40,7 +40,7 @@ namespace ResetApiTcp.Cliernt.Command.Sql.SqlCommand
                 if (command != String.Empty && command.Length > GeneralMeaning.GeneralMeaning.EmptyOfValue) {
                     switch (command)
                     {
-                        case "user_register":
+                        case "register":
                             {
                                 SqlUserType userType = obj as SqlUserType;
                                 ResultUserType result_t = new ResultUserType();
@@ -78,7 +78,7 @@ namespace ResetApiTcp.Cliernt.Command.Sql.SqlCommand
                             }
                             break;
 
-                        case "user_login":
+                        case "login":
                             {
                                 SqlUserType userType = obj as SqlUserType;
                                 ResultUserType result_t = new ResultUserType();
@@ -90,7 +90,6 @@ namespace ResetApiTcp.Cliernt.Command.Sql.SqlCommand
                                 {
                                     if (userType.Gmail.Equals(user.Gmail))
                                     {
-                       
                                         find_user = true;
                                         break;
                                     }
