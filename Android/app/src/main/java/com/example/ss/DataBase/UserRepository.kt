@@ -3,6 +3,12 @@ package com.example.ss.DataBase
 import android.annotation.SuppressLint
 import android.content.ContentValues
 import android.content.Context
+import com.example.ss.DataBase.DatabaseHelper.Companion.COLUMN_EMAIL
+import com.example.ss.DataBase.DatabaseHelper.Companion.COLUMN_FIRSTNAME
+import com.example.ss.DataBase.DatabaseHelper.Companion.COLUMN_ID
+import com.example.ss.DataBase.DatabaseHelper.Companion.COLUMN_LASTNAME
+import com.example.ss.DataBase.DatabaseHelper.Companion.COLUMN_PASSWORD
+import com.example.ss.DataBase.DatabaseHelper.Companion.TABLE_USERS
 import com.example.ss.Patterns.p_user
 
 
@@ -54,7 +60,14 @@ class UserRepository(context: Context) {
 
     fun deleteUser () {
        dbHelper.writableDatabase.use {  db->
-        db.delete(DatabaseHelper.TABLE_USERS, "${DatabaseHelper.COLUMN_ID} = ?", arrayOf(1.toString()))
+        db.execSQL("DROP TABLE IF EXISTS ${TABLE_USERS}")
+           val createTable = ("CREATE TABLE $TABLE_USERS ("
+                   + "$COLUMN_ID INTEGER PRIMARY KEY AUTOINCREMENT, "
+                   + "$COLUMN_FIRSTNAME TEXT, "
+                   + "$COLUMN_LASTNAME TEXT, "
+                   + "$COLUMN_EMAIL TEXT, "
+                   + "$COLUMN_PASSWORD TEXT)")
+           db.execSQL(createTable)
        }
     }
 }

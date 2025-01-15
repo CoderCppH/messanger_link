@@ -64,7 +64,7 @@ class LoginActivity:AppCompatActivity() {
                     user.FirstName = "";
                     user.Password = password;
                     user.Id = 0;
-                    var reg = com.Login(user)
+                    var reg = com.login(user)
                     Log.d("status_register", reg.Status)
                     runOnUiThread {
                         if (reg.Status.equals("SUCCESS")) {

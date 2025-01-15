@@ -3,16 +3,52 @@
   "WorkspaceRootPath": "D:\\tools\\GIY_HUB_PROJECTS\\PostGrammMessangerKMEPT\\ResetApiTcp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|d:\\tools\\giy_hub_projects\\postgrammmessangerkmept\\resetapitcp\\resetapitcp\\cliernt\\command\\sql\\sqlcommand\\sqlitecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\cliernt\\command\\sql\\sqlcommand\\sqlitecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|d:\\tools\\giy_hub_projects\\postgrammmessangerkmept\\resetapitcp\\resetapitcp\\cliernt\\clientthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\cliernt\\clientthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|d:\\tools\\giy_hub_projects\\postgrammmessangerkmept\\resetapitcp\\resetapitcp\\patterns\\p_img_u_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\patterns\\p_img_u_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|d:\\tools\\giy_hub_projects\\postgrammmessangerkmept\\resetapitcp\\resetapitcp\\patterns\\p_cm_img.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\patterns\\p_cm_img.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|d:\\tools\\giy_hub_projects\\postgrammmessangerkmept\\resetapitcp\\resetapitcp\\threadkeyboard\\threadkeyboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\threadkeyboard\\threadkeyboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|d:\\tools\\giy_hub_projects\\postgrammmessangerkmept\\resetapitcp\\resetapitcp\\patterns\\p_cmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\patterns\\p_cmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|d:\\tools\\giy_hub_projects\\postgrammmessangerkmept\\resetapitcp\\resetapitcp\\patterns\\p_img_u_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\patterns\\p_img_u_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|d:\\tools\\giy_hub_projects\\postgrammmessangerkmept\\resetapitcp\\resetapitcp\\mailru\\mail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\mailru\\mail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|d:\\tools\\giy_hub_projects\\postgrammmessangerkmept\\resetapitcp\\resetapitcp\\streammessage\\streamwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\streammessage\\streamwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|d:\\tools\\giy_hub_projects\\postgrammmessangerkmept\\resetapitcp\\resetapitcp\\streammessage\\streamreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\streammessage\\streamreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|d:\\tools\\giy_hub_projects\\postgrammmessangerkmept\\resetapitcp\\resetapitcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|d:\\tools\\giy_hub_projects\\postgrammmessangerkmept\\resetapitcp\\resetapitcp\\storage\\storageimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\storage\\storageimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|d:\\tools\\giy_hub_projects\\postgrammmessangerkmept\\resetapitcp\\resetapitcp\\server\\serverstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C82DAC-73B0-4351-9C25-5C57FECFA892}|ResetApiTcp\\ResetApiTcp.csproj|solutionrelative:resetapitcp\\server\\serverstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,29 +66,125 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "ThreadKeyBoard.cs",
+              "DocumentMoniker": "D:\\tools\\GIY_HUB_PROJECTS\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\ThreadKeyBoard\\ThreadKeyBoard.cs",
+              "RelativeDocumentMoniker": "ResetApiTcp\\ThreadKeyBoard\\ThreadKeyBoard.cs",
+              "ToolTip": "D:\\tools\\GIY_HUB_PROJECTS\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\ThreadKeyBoard\\ThreadKeyBoard.cs",
+              "RelativeToolTip": "ResetApiTcp\\ThreadKeyBoard\\ThreadKeyBoard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T21:26:40.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StreamWriter.cs",
+              "DocumentMoniker": "D:\\tools\\GIY_HUB_PROJECTS\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\StreamMessage\\StreamWriter.cs",
+              "RelativeDocumentMoniker": "ResetApiTcp\\StreamMessage\\StreamWriter.cs",
+              "ToolTip": "D:\\tools\\GIY_HUB_PROJECTS\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\StreamMessage\\StreamWriter.cs",
+              "RelativeToolTip": "ResetApiTcp\\StreamMessage\\StreamWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T21:26:31.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ClientThread.cs",
               "DocumentMoniker": "D:\\tools\\GIY_HUB_PROJECTS\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Cliernt\\ClientThread.cs",
               "RelativeDocumentMoniker": "ResetApiTcp\\Cliernt\\ClientThread.cs",
               "ToolTip": "D:\\tools\\GIY_HUB_PROJECTS\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Cliernt\\ClientThread.cs",
               "RelativeToolTip": "ResetApiTcp\\Cliernt\\ClientThread.cs",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAowIIAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAmwIAAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T22:02:41.723Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
+              "Title": "StreamReader.cs",
+              "DocumentMoniker": "D:\\tools\\GIY_HUB_PROJECTS\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\StreamMessage\\StreamReader.cs",
+              "RelativeDocumentMoniker": "ResetApiTcp\\StreamMessage\\StreamReader.cs",
+              "ToolTip": "D:\\tools\\GIY_HUB_PROJECTS\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\StreamMessage\\StreamReader.cs",
+              "RelativeToolTip": "ResetApiTcp\\StreamMessage\\StreamReader.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswCIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T21:26:26.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tools\\GIY_HUB_PROJECTS\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Program.cs",
+              "RelativeDocumentMoniker": "ResetApiTcp\\Program.cs",
+              "ToolTip": "D:\\tools\\GIY_HUB_PROJECTS\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Program.cs",
+              "RelativeToolTip": "ResetApiTcp\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T21:26:23.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mail.cs",
+              "DocumentMoniker": "D:\\tools\\GIY_HUB_PROJECTS\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\MailRu\\Mail.cs",
+              "RelativeDocumentMoniker": "ResetApiTcp\\MailRu\\Mail.cs",
+              "ToolTip": "D:\\tools\\GIY_HUB_PROJECTS\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\MailRu\\Mail.cs",
+              "RelativeToolTip": "ResetApiTcp\\MailRu\\Mail.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwCMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T21:26:16.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "p_cm_img.cs",
+              "DocumentMoniker": "D:\\tools\\GIY_HUB_PROJECTS\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Patterns\\p_cm_img.cs",
+              "RelativeDocumentMoniker": "ResetApiTcp\\Patterns\\p_cm_img.cs",
+              "ToolTip": "D:\\tools\\GIY_HUB_PROJECTS\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Patterns\\p_cm_img.cs",
+              "RelativeToolTip": "ResetApiTcp\\Patterns\\p_cm_img.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T20:10:23.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SQLiteCommand.cs",
+              "DocumentMoniker": "D:\\tools\\GIY_HUB_PROJECTS\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Cliernt\\Command\\Sql\\SqlCommand\\SQLiteCommand.cs",
+              "RelativeDocumentMoniker": "ResetApiTcp\\Cliernt\\Command\\Sql\\SqlCommand\\SQLiteCommand.cs",
+              "ToolTip": "D:\\tools\\GIY_HUB_PROJECTS\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Cliernt\\Command\\Sql\\SqlCommand\\SQLiteCommand.cs",
+              "RelativeToolTip": "ResetApiTcp\\Cliernt\\Command\\Sql\\SqlCommand\\SQLiteCommand.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAswHYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T09:25:48.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StorageImage.cs",
+              "DocumentMoniker": "D:\\tools\\GIY_HUB_PROJECTS\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Storage\\StorageImage.cs",
+              "RelativeDocumentMoniker": "ResetApiTcp\\Storage\\StorageImage.cs",
+              "ToolTip": "D:\\tools\\GIY_HUB_PROJECTS\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Storage\\StorageImage.cs",
+              "RelativeToolTip": "ResetApiTcp\\Storage\\StorageImage.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAYwGsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T22:24:58.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "p_cmu.cs",
               "DocumentMoniker": "D:\\tools\\GIY_HUB_PROJECTS\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Patterns\\p_cmu.cs",
               "RelativeDocumentMoniker": "ResetApiTcp\\Patterns\\p_cmu.cs",
               "ToolTip": "D:\\tools\\GIY_HUB_PROJECTS\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Patterns\\p_cmu.cs",
               "RelativeToolTip": "ResetApiTcp\\Patterns\\p_cmu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T21:58:20.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T21:58:20.025Z"
             },
             {
               "$type": "Document",
@@ -62,10 +194,21 @@
               "RelativeDocumentMoniker": "ResetApiTcp\\Patterns\\p_img_u_info.cs",
               "ToolTip": "D:\\tools\\GIY_HUB_PROJECTS\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Patterns\\p_img_u_info.cs",
               "RelativeToolTip": "ResetApiTcp\\Patterns\\p_img_u_info.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T21:07:57.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T21:07:57.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServerStart.cs",
+              "DocumentMoniker": "D:\\tools\\GIY_HUB_PROJECTS\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Server\\ServerStart.cs",
+              "RelativeDocumentMoniker": "ResetApiTcp\\Server\\ServerStart.cs",
+              "ToolTip": "D:\\tools\\GIY_HUB_PROJECTS\\PostGrammMessangerKMEPT\\ResetApiTcp\\ResetApiTcp\\Server\\ServerStart.cs",
+              "RelativeToolTip": "ResetApiTcp\\Server\\ServerStart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T22:20:26.652Z"
             }
           ]
         }

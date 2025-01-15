@@ -14,9 +14,10 @@ namespace ResetApiTcp.Cliernt.Command.Sql.SqlCommand
         private SQLiteDataBase _db = default(SQLiteDataBase);
 
         private StorageImage store_img = default(StorageImage);
-        public SQLiteCommands(DataBase.SQLiteDataBase db) 
+        public SQLiteCommands(DataBase.SQLiteDataBase db)
         {
-            if (db != null) {
+            if (db != null)
+            {
                 _db = db;
                 store_img = new StorageImage(db);
                 Init();
@@ -37,7 +38,7 @@ namespace ResetApiTcp.Cliernt.Command.Sql.SqlCommand
         {
             InitTableCreate();
         }
-        private r_user login(p_user user) 
+        private r_user login(p_user user)
         {
             r_user result_t = new r_user();
             List<MyExeption.Users.p_user> list = get_all_user();
@@ -61,16 +62,17 @@ namespace ResetApiTcp.Cliernt.Command.Sql.SqlCommand
             else
             {
                 result_t.UserId = -1;
-                result_t.Status = "FAILED";
+                result_t.Status = "FAILED_LOGIN";
             }
             return result_t;
         }
-        public object Command(string command, object obj) 
+        public object Command(string command, object obj)
         {
             object result = null;
-            if (obj != null) 
+            if (obj != null)
             {
-                if (command != String.Empty && command.Length > GeneralMeaning.GeneralMeaning.EmptyOfValue) {
+                if (command != String.Empty && command.Length > GeneralMeaning.GeneralMeaning.EmptyOfValue)
+                {
                     switch (command)
                     {
                         case "register":
@@ -102,10 +104,10 @@ namespace ResetApiTcp.Cliernt.Command.Sql.SqlCommand
                                     result_t.UserId = 0;
                                     result_t.Status = "SUCCESS";
                                 }
-                                else 
+                                else
                                 {
                                     result_t.UserId = -1;
-                                    result_t.Status = "find_user not false";
+                                    result_t.Status = "FAILED_REGISTER_HAVE_USER";
                                 }
                                 result = result_t;
                             }
@@ -117,64 +119,81 @@ namespace ResetApiTcp.Cliernt.Command.Sql.SqlCommand
                                 result = login(userType);
                             }
                             break;
-                        case "user":
+                        case "user_get_info_img":
                             {
                                 p_cmu obj_p_cmu = obj as p_cmu;
-                                object result_t = null;
-                                if (obj_p_cmu.command.Equals("get_info_img"))
+                                if (obj_p_cmu.command.Equals("user_get_info_img"))
                                 {
                                     //lock user data
                                     p_img_u_info r_p_img_u_info = new p_img_u_info();
-                                    if (login(obj_p_cmu.user).Status.Equals("SUCCESS")) 
+                                    if (login(obj_p_cmu.user).Status.Equals("SUCCESS"))
                                     {
                                         string name_img_user = $"user_img_({obj_p_cmu.user.Gmail})";
                                         byte[] img_data;
                                         if (store_img.CheckNameImg(name_img_user))
                                         {
-                                           img_data = store_img.GetImage(name_img_user);
+                                            img_data = store_img.GetImage(name_img_user);
                                         }
-                                        else {
+                                        else
+                                        {
                                             img_data = File.ReadAllBytes(GeneralMeaning.GeneralMeaning.imgs_defult["user_defult_img"]);
                                             store_img.Add(name_img_user, img_data);
                                         }
-                                        
                                         r_p_img_u_info.img = img_data;
                                         r_p_img_u_info.user = get_user(obj_p_cmu.user);
                                     }
-                                    result_t = r_p_img_u_info;
-                                }
-                                else 
-                                {
-                                    result_t = "null";
+                                    else
+                                    {
+                                        result = "FAILED_GET_INFO_IMG";
+                                    }
+                                    result = r_p_img_u_info;
                                 }
 
-                                result = result_t;
                             }
                             break;
-                        
+                        case "user_set_img_profile":
+                            {
+                                p_cm_img obj_p_cm_img = obj as p_cm_img;
+                                if (obj_p_cm_img.command.Equals("user_set_img_profile"))
+                                {
+                                    if (login(obj_p_cm_img.user).Status.Equals("SUCCESS"))
+                                    {
+                                        string name_img_user = $"user_img_({obj_p_cm_img.user.Gmail})";
+                                        store_img.ChangeImg(name_img_user, obj_p_cm_img.image);
+                                        result = "SUCCESS";
+                                    }
+                                    else
+                                    {
+                                        result = "FAILED_SET_IMAGE_PROFILE";
+                                    }
+                                }
+
+                            }
+                            break;
+
                     }
-       
+
                 }
-                
+
             }
             return result;
         }
-        private p_user get_user(p_user user) 
+        private p_user get_user(p_user user)
         {
             p_user r_p_user = new p_user();
-            foreach (p_user i_user in get_all_user()) 
+            foreach (p_user i_user in get_all_user())
             {
-                if(i_user.Gmail.Equals(user.Gmail) && i_user.Password.Equals(user.Password))
+                if (i_user.Gmail.Equals(user.Gmail) && i_user.Password.Equals(user.Password))
                     r_p_user = i_user;
                 break;
             }
             return r_p_user;
         }
-        private List<MyExeption.Users.p_user> get_all_user() 
+        private List<MyExeption.Users.p_user> get_all_user()
         {
             List<MyExeption.Users.p_user> t_gets = new List<MyExeption.Users.p_user>();
-            
-                string requestSelectFromTable = $"Select * From {GlobalNameTableUsers}";
+
+            string requestSelectFromTable = $"Select * From {GlobalNameTableUsers}";
             using (SQLiteDataReader read = new SQLiteCommand(requestSelectFromTable, _db.GetConnection()).ExecuteReader())
             {
                 while (read.Read())
@@ -188,12 +207,12 @@ namespace ResetApiTcp.Cliernt.Command.Sql.SqlCommand
                     t_gets.Add(user);
                 }
             }
-            
+
             return t_gets;
         }
-        public void Close() 
+        public void Close()
         {
-            if (_db != null) 
+            if (_db != null)
             {
                 _db.Close();
             }

@@ -105,6 +105,16 @@ namespace ResetApiTcp.Storage
 
             return image;
         }
+        public void ChangeImg(string nameImg, byte[] img) 
+        {
+            string change_img = $"UPDATE {GlobalNameTableImageStore} SET {p_store_image.image} = @{p_store_image.image} WHERE {p_store_image.name} = @{p_store_image.name}";
+            using (SQLiteCommand command = new SQLiteCommand(change_img, _db.GetConnection()))
+            {
+                command.Parameters.AddWithValue($"@{p_store_image.image}", img);
+                command.Parameters.AddWithValue($"@{p_store_image.name}", nameImg);
+                command.ExecuteNonQuery();
+            }
+        }
         public void Close() 
         {
             _db.Close();

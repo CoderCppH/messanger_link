@@ -15,6 +15,10 @@ namespace ResetApiTcp.ThreadKeyBoard
                     string comm = Console.ReadLine();
                     switch (comm) 
                     {
+                        case "exit":
+                            {
+                                CloseServer();
+                            }break;
                         case "close": 
                             {
                                 CloseServer();
@@ -22,7 +26,7 @@ namespace ResetApiTcp.ThreadKeyBoard
                         case "stop": 
                             {
                                 CloseServer();
-                            } break;
+                            }break;
                     }
                 }
             

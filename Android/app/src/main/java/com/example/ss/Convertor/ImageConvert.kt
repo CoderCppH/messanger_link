@@ -1,8 +1,11 @@
 package com.example.ss.Convertor
 
+import android.content.ContentResolver
 import android.graphics.Bitmap
 import android.graphics.BitmapFactory
+import android.net.Uri
 import java.io.ByteArrayOutputStream
+import java.io.InputStream
 
 class ImageConvert {
     companion object
@@ -16,6 +19,19 @@ class ImageConvert {
             val stream = ByteArrayOutputStream()
             img.compress(Bitmap.CompressFormat.PNG, 100, stream)
             return stream.toByteArray()
+        }
+        public fun uriToByteArray(uri: Uri?, contentResolver: ContentResolver): ByteArray? {
+            val contentResolver: ContentResolver = contentResolver
+            return try {
+                val inputStream: InputStream? = uri?.let { contentResolver.openInputStream(it) }
+                val bitmap: Bitmap? = BitmapFactory.decodeStream(inputStream)
+                val byteArrayOutputStream = ByteArrayOutputStream()
+                bitmap?.compress(Bitmap.CompressFormat.PNG, 100, byteArrayOutputStream)
+                byteArrayOutputStream.toByteArray()
+            } catch (e: Exception) {
+                e.printStackTrace()
+                null
+            }
         }
     }
 }

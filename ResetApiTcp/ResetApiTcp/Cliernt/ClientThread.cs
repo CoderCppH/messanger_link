@@ -7,6 +7,7 @@ using ResetApiTcp.patterns;
 using ResetApiTcp.Patterns;
 using ResetApiTcp.Patterns.FilePatterns;
 using ResetApiTcp.Patterns.TransportCommand;
+using System.Data.Entity.Core.Metadata.Edm;
 using System.Net.Sockets;
 using System.Text;
 
@@ -36,7 +37,7 @@ namespace ResetApiTcp.Cliernt
                 byte[] bufferRead = new byte[128];
                 read.ReadBytes(stream, ref bufferRead);
                 string read_text = Encoding.UTF8.GetString(bufferRead);
-                Console.WriteLine($"READ: {read_text}");
+                //Console.WriteLine($"READ: {read_text}");
                 GET = JsonConvert.DeserializeObject<p_dtf>(read_text);
 
             }
@@ -49,7 +50,7 @@ namespace ResetApiTcp.Cliernt
             try
             {
                 string write_text = JsonConvert.SerializeObject(SET);
-                Console.WriteLine($"WRITE: {write_text}");
+                //Console.WriteLine($"WRITE: {write_text}");
                 byte[] bufferWrite = Encoding.UTF8.GetBytes(write_text);
                 write.WriteBytes(stream, bufferWrite);
             }
@@ -125,17 +126,19 @@ namespace ResetApiTcp.Cliernt
                                     r_user result = Commands.Command(TCommand.Command, user) as r_user;
                                     SET.Data = Convert.ConvertJson.ConvertJson.Object_in_json_in_buffer<r_user>(result);
                                 }
-                                else if (TCommand.Command.Equals("user")) 
+                                else if (TCommand.Command.Equals("user_get_info_img"))
                                 {
                                     p_cmu cm_user = ConvertJson.buffer_in_string_json<p_cmu>(TCommand.ExData);
                                     object result = Commands.Command(TCommand.Command, cm_user);
-                                    if (result is p_img_u_info)
-                                    {
-                                        p_img_u_info obj_p_img_u_info = result as p_img_u_info;
-                                        SET.Data = Convert.ConvertJson.ConvertJson.Object_in_json_in_buffer<p_img_u_info>(obj_p_img_u_info);
-                                    }
-                                    else
-                                        SET.Data = ConvertJson.Object_in_json_in_buffer("FAILED");
+                                    p_img_u_info obj_p_img_u_info = result as p_img_u_info;
+                                    SET.Data = Convert.ConvertJson.ConvertJson.Object_in_json_in_buffer<p_img_u_info>(obj_p_img_u_info);
+                                }
+                                else if (TCommand.Command.Equals("user_set_img_profile"))
+                                {
+                                    p_cm_img obj_p_cm_img = ConvertJson.buffer_in_string_json<p_cm_img>(TCommand.ExData);
+                                    object result = Commands.Command(TCommand.Command, obj_p_cm_img);
+                                    string status = result as string;
+                                    SET.Data = Convert.ConvertJson.ConvertJson.Object_in_json_in_buffer<string>(status);
                                 }
                             }
                             else if (GET.DataFormat.Equals(p_fdt.File))

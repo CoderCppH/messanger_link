@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="horizontal"
+    android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
+    <Button
+        android:onClick="on_click_exit_akk"
+        android:text="Exit"
+        android:backgroundTint="@color/red"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </Button>
+    <Button
+        android:onClick="on_click_change_photo"
+        android:text="Change Photo"
+        android:backgroundTint="@color/text_color_comment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </Button>
     <ImageView
         android:id="@+id/profil_img"
         android:layout_width="match_parent"

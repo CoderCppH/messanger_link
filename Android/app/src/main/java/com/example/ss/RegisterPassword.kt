@@ -141,7 +141,7 @@ class RegisterPassword:AppCompatActivity() {
                             user.LastName = intent.getStringExtra("lastname")
                             user.FirstName = intent.getStringExtra("firstname")
                             user.Gmail = intent.getStringExtra("email")
-                             reg = com.Register(user)
+                             reg = com.register(user)
                             Log.d("status_register", reg.Status)
                         }
                         catch (e:Exception){

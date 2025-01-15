@@ -24,7 +24,7 @@ namespace ResetApiTcp.StreamMessage
                 Console.WriteLine($"success get size data: {fileSize}");
                 while (totalBytesRead < fileSize)
                 {
-                    Console.WriteLine($"success get byte: {totalBytesRead}");
+                    //Console.WriteLine($"success get byte: {totalBytesRead}");
                     int bytesRead = stream.Read(fileData, totalBytesRead, fileSize - totalBytesRead);
                     if (bytesRead == 0 )
                     {
