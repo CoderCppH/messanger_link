@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#0a0a0a</color>
+    <color name="background_content">#19191a</color>
+    <color name="button_green">#4bb34b</color>
+    <color name="text_color_comment">#716D6D</color>
+    <color name="button_next">#A2A2A2</color>
+    <color name="background_for_edit_text">#28282A</color>
+    <color name="red">#F44336</color>
+</resources>

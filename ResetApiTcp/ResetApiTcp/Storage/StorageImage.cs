@@ -1,6 +1,8 @@
 ﻿using ResetApiTcp.Cliernt.Command.Sql.DataBase;
 using ResetApiTcp.Patterns.sql_data_base;
 using System.Data.SQLite;
+using System.Numerics;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace ResetApiTcp.Storage
 {
@@ -30,7 +32,7 @@ namespace ResetApiTcp.Storage
         {
             InitCraeteTable();
         }
-        public bool Add(string NameImage ,byte[] Image) 
+        public bool Add(string NameImage, byte[] Image) 
         {
             bool r = false;
             try
@@ -50,6 +52,23 @@ namespace ResetApiTcp.Storage
             }
             return r;
         }
+        public bool CheckNameImg(string nameImg) 
+        {
+            bool r_find_img = false;
+            string getAllImage = $"select * from {GlobalNameTableImageStore}";
+            using (SQLiteDataReader read = new SQLiteCommand(getAllImage, _db.GetConnection()).ExecuteReader())
+            {
+                while (read.Read())
+                {
+                    if (read.GetString(1).Equals(nameImg))
+                    {
+                        r_find_img = true;
+                        break;
+                    }
+                }
+            }
+            return r_find_img;
+        }
         public byte[] GetImage(int Id) 
         {
             byte[] image = null;
@@ -58,7 +77,25 @@ namespace ResetApiTcp.Storage
             {
                 while (read.Read()) 
                 {
-                    if (read.GetInt32(0) == Id)
+                    if (read.GetInt32(0).Equals(Id))
+                    {
+                        image = read[p_store_image.image] as byte[];
+                        break;
+                    }
+                }
+            }
+
+            return image;
+        }
+        public byte[] GetImage(string nameImg)
+        {
+            byte[] image = null;
+            string getAllImage = $"select * from {GlobalNameTableImageStore}";
+            using (SQLiteDataReader read = new SQLiteCommand(getAllImage, _db.GetConnection()).ExecuteReader())
+            {
+                while (read.Read())
+                {
+                    if (read.GetString(1).Equals(nameImg))
                     {
                         image = read[p_store_image.image] as byte[];
                         break;

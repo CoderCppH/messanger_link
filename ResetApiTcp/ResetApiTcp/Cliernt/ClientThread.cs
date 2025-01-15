@@ -115,15 +115,27 @@ namespace ResetApiTcp.Cliernt
 
                                 if (TCommand.Command.Equals("register"))
                                 {
-                                    SqlUserType user = ConvertJson.buffer_in_string_json<SqlUserType>(TCommand.ExData);
-                                    ResultUserType result = Commands.Command(TCommand.Command, user) as ResultUserType;
-                                    SET.Data = Convert.ConvertJson.ConvertJson.Object_in_json_in_buffer<ResultUserType>(result);
+                                    p_user user = ConvertJson.buffer_in_string_json<p_user>(TCommand.ExData);
+                                    r_user result = Commands.Command(TCommand.Command, user) as r_user;
+                                    SET.Data = Convert.ConvertJson.ConvertJson.Object_in_json_in_buffer<r_user>(result);
                                 }
                                 else if (TCommand.Command.Equals("login"))
                                 {
-                                    SqlUserType user = ConvertJson.buffer_in_string_json<SqlUserType>(TCommand.ExData);
-                                    ResultUserType result = Commands.Command(TCommand.Command, user) as ResultUserType;
-                                    SET.Data = Convert.ConvertJson.ConvertJson.Object_in_json_in_buffer<ResultUserType>(result);
+                                    p_user user = ConvertJson.buffer_in_string_json<p_user>(TCommand.ExData);
+                                    r_user result = Commands.Command(TCommand.Command, user) as r_user;
+                                    SET.Data = Convert.ConvertJson.ConvertJson.Object_in_json_in_buffer<r_user>(result);
+                                }
+                                else if (TCommand.Command.Equals("user")) 
+                                {
+                                    p_cmu cm_user = ConvertJson.buffer_in_string_json<p_cmu>(TCommand.ExData);
+                                    object result = Commands.Command(TCommand.Command, cm_user);
+                                    if (result is p_img_u_info)
+                                    {
+                                        p_img_u_info obj_p_img_u_info = result as p_img_u_info;
+                                        SET.Data = Convert.ConvertJson.ConvertJson.Object_in_json_in_buffer<p_img_u_info>(obj_p_img_u_info);
+                                    }
+                                    else
+                                        SET.Data = ConvertJson.Object_in_json_in_buffer("FAILED");
                                 }
                             }
                             else if (GET.DataFormat.Equals(p_fdt.File))

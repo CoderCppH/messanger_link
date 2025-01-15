@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_content">
+    <LinearLayout
+        android:layout_margin="20dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_marginTop="70dp"
+            android:orientation="vertical"
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="300dp">
+            <TextView
+                android:layout_marginTop="25dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textSize="30dp"
+                style="@style/TextAppearance.AppCompat.Menu"
+                android:textColor="@color/white"
+                android:text="Введите персональные данные">
+            </TextView>
+            <TextView
+                android:layout_marginTop="25dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textSize="20dp"
+                style="@style/TextAppearance.AppCompat.Menu"
+                android:textColor="@color/text_color_comment"
+                android:text="Они нам нужны для того чтобы другие пользователи могли видеть ваше имя">
+            </TextView>
+            <EditText
+                android:id="@+id/register_input_firstname_text"
+                android:textColorHint="@color/text_color_comment"
+                android:hint="Firstname"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/edit_text"
+                android:layout_width="match_parent"
+                android:layout_height="45dp">
+            </EditText>
+            <TextView
+                android:textAlignment="center"
+                android:id="@+id/text_error_firstname_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/holo_red_dark"
+                android:visibility="gone" />
+            <EditText
+                android:id="@+id/register_input_lastname_text"
+                android:textColorHint="@color/text_color_comment"
+                android:hint="Lastname"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/edit_text"
+                android:layout_width="match_parent"
+                android:layout_height="45dp">
+            </EditText>
+            <TextView
+                android:textAlignment="center"
+                android:id="@+id/text_error_lastname_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/holo_red_dark"
+                android:visibility="gone" />
+            <Button
+                android:onClick="on_click_next_activity_for_password"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+                android:text="Продолжить"
+                android:backgroundTint="@color/button_next"
+                android:layout_marginTop="70dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+            </Button>
+
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ss</string>
+    <string name="host">pargevdotnet.ru</string>
+    <integer name="port">24242</integer>
+</resources>

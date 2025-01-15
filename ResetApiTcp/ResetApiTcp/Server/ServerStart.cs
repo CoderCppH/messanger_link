@@ -18,10 +18,13 @@ namespace ResetApiTcp.Server
         }
         private void Init(int startPort) 
         {
+            GeneralMeaning.GeneralMeaning.imgs_defult = new Dictionary<string, string>();
+            GeneralMeaning.GeneralMeaning.imgs_defult.Add("user_defult_img", "./Resource/Img/user_defult_img.png");
             listener = new TcpListener(IPAddress.Any, startPort);
         }
         public ServerStart(int startPort) 
         {
+            
             Init(startPort);
         }
         public void Start() 

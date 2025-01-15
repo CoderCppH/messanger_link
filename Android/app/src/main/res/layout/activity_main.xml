@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    tools:context=".MainActivity"
+    android:background="@color/background">
+    <LinearLayout
+        android:layout_margin="20dp"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+    <LinearLayout
+        android:layout_marginTop="70dp"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/circle"
+        android:minHeight="300dp">
+        <TextView
+            android:layout_marginTop="25dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:textSize="30dp"
+            style="@style/TextAppearance.AppCompat.Menu"
+            android:textColor="@color/white"
+            android:text="Вход В ChatLink">
+        </TextView>
+        <LinearLayout
+            android:gravity="center"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:layout_margin="25dp"
+                android:textSize="20dp"
+                android:textAlignment="center"
+                android:textColor="@color/text_color_comment"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="добро пожаловать ;)"
+                >
+
+            </TextView>
+        <Button
+            android:layout_margin="10dp"
+            android:onClick="on_click_login"
+            android:textSize="22dp"
+            android:text="Войти по почте"
+            android:backgroundTint="@color/white"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"></Button>
+        </LinearLayout>
+
+    </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="40dp"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/circle"
+            android:minHeight="100dp"
+            >
+
+            <Button
+                android:layout_margin="10dp"
+                android:onClick="on_click_register"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/button_green"
+                android:gravity="center"
+                android:text="Создать аккаунт"
+                android:textColor="@color/white"
+                android:textSize="22dp"></Button>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="40dp"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="100dp"
+            >
+            <TextView
+                android:textSize="21dp"
+                android:textAlignment="center"
+                android:text="Версия для мобильного
+                приложения @"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+            </TextView>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

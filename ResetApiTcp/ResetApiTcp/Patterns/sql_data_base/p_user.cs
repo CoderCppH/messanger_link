@@ -1,6 +1,6 @@
 ﻿namespace ResetApiTcp.Patterns.sql_data_base
 {
-    public class p_user
+    public class p_user_sql
     {
         static public string id = "id";
         static public string first_name = "first_name";
